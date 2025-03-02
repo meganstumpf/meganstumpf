@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meganstumpf
-- 👀 I’m interested in computational biology related to virus/antibody interactions.
-- 🌱 I’m currently learning python/bash/perl with experience in R and HTML/CSS.
+- 👀 I’m interested in computational biology related to virus/antibody evolution and interactions.
+- 🌱 I’m currently learning Python/Java/Perl/SLURM with experience in Bash, R, and HTML/CSS.
 - 💞️ I’m looking to collaborate on anything - reach out!
 - 📫 How to reach me: twitter: @megmstumpf or by email: megan.stumpf@cuanschutz.edu.
 
