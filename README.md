@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @meganstumpf
-- 👀 I’m interested in computational biology related to virus/antibody evolution and interactions.
+- 👀 I’m interested in computational biology related to virus/antibody evolution and their interactions.
+- 🧬 I have a Ph.D. in immunology from the University of Colorado and a B.S. in microbiology from the University of Washington.
 - 🌱 I’m currently learning Python/Java/JavaScript/Perl/SLURM with experience in Bash, R, and HTML/CSS.
 - 💞️ I’m looking to collaborate on anything - reach out!
 - 📫 How to reach me: twitter: @megmstumpf or by email: megan.stumpf@cuanschutz.edu.
